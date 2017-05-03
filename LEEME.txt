@@ -1,0 +1,1 @@
+el comando touch archivo, es para crear archivos desde consola
