@@ -1,0 +1,43 @@
+Gasto de gobierno          $20
+Importaciones              $150
+Consumo privado            $700
+Impuestos Directos         $30
+Inversión Bruto fijo       $200
+Impuestos Indirectos       $10
+Transferencia del gobierno  $60   
+Exportaciones               $65
+Depreciaciones             $70    
+Saldo remesa (+)           $40
+
+Calcular  YNNcf
+
+METODO del gasto
+
+consumo de las familias (C)
+consumo del gobierno (G) = bienes y servicios, sueldos y salarios pagados por el gobierno
+
+Q es la inversion bruta interna (IBI)?
+es la suma d la inversion bruta interna fija y la variacion d las existencias
+IBIf (inversion privada=contruccion, herramientas, equipos, maquinarias ; inversion publica=edificios
+publicos, escuelas, aeropuertos, carreteras)
+VEx (productos terminados, productos en elaboracion, materias primas)
+
+(+)gasto d gobierno 20
+(+)consumo privado 700
+(+)inversion bruta fija 200
+(+)exportacion (X) 65 
+(-)importacion (M) 150
+PBI a precios d mercados = 835
+
+(-)impuestos indirectos 10
+PBI a costos d factores 825
+(+)saldo de remesas 40
+(-)depreciacion 70
+PNN a costo d factores = YNN a costo d factores 795
+(+)transferencia gobiern 60
+(-)impuesto inderecto 10
+YD 845 (ingreso disponible)
+ 
+
+
+
